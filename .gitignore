@@ -1,0 +1,9 @@
+# Maven
+target/
+*.iml
+.idea/
+dependency-reduced-pom.xml
+
+# NetBeans
+nbproject/
+build/
